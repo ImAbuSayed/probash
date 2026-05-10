@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/probash/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Probash](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/probash/) |
+| **Get License** | [Secure Licensing Rights for Probash](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/probash/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ধুলোমাখা এই প্রবাসে তোমায় শুধু খুঁজি.. তোমায় খুঁজি..
+> হারিয়ে গেছে আমার যত সুখের ছোঁয়া পুঁজি
+> অন্ধকারে একলা আমি স্মৃতির পাতা খুলি
+> কী করে আজ বুকের ভেতর প্রেমের মায়া ভুলি
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
