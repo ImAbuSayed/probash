@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Probash
+
+This log tracks the cryptographic history and versioning for the song **Probash** (probash).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T09:48:43.660692 | `v1` | `a40a6639441e06d08af5f8a10a0629ca555cd80b8f083ac26a42b436a66d2c64` | `b62db170c7fbbead811349656bfd365e73119a661585572e70cde81d692b4d60` | `2026-05-10_probash-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
